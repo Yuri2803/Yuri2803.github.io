@@ -1,0 +1,20 @@
+p {
+	color: green;
+	margin-left: 3% ;
+	font-style: italic;
+  }
+
+.char {
+	color: purple;
+	margin-left: 1% ;
+	font-family: sans-serif
+	;}
+
+
+#pokemons {
+	color: red;
+}
+
+#pokemons:hover {
+	color: grey;
+  }
